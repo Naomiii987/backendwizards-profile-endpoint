@@ -7,9 +7,6 @@ It is a simple REST API that returns my basic profile information in JSON format
 
 ## Live API URL
 
-Base URL:  
-https://backendwizards-profile-endpoint-production.up.railway.app
-
 To view the profile endpoint, visit:  
 https://backendwizards-profile-endpoint-production.up.railway.app/me
 
